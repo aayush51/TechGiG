@@ -1,6 +1,7 @@
 /* Author :- Aayush More */
 /* Created Date :- 01/02/2023 */
 /* Last Modified :- 06/02/2023 */
+/* Modified on 29/05/2024 */
 body {
     background-color: cornsilk;
     display: block;
@@ -132,7 +133,7 @@ a:-webkit-any-link {
     font-size: 15px;
     float: left;
     height:630px;
-    margin: 0px 0px 0px 50px;
+    margin: 5px 0px 5px 50px;
     width: 430px;
     border-bottom: #ffd284 5px solid;
     border-left: #ffd284 5px solid;
@@ -144,7 +145,7 @@ a:-webkit-any-link {
     font-family: 'Roboto Slab', serif ;
     font-size: 15px;
     float: left;
-    margin: 0px 0px 0px 50px;
+    margin: 5px 0px 5px 50px;
     width: 430px;
     height:630px;
     border-bottom: #ffd284 5px solid;
@@ -157,7 +158,7 @@ a:-webkit-any-link {
     font-family: 'Roboto Slab', serif ;
     font-size: 15px;
     float: left;
-    margin: 0px 0px 0px 50px;
+    margin: 5px 0px 5px 50px;
     width: 430px;
     height:630px;
     border-bottom: #ffd284 5px solid;
@@ -170,7 +171,7 @@ a:-webkit-any-link {
     font-family: 'Roboto Slab', serif ;
     font-size: 15px;
     float: left;
-    margin: 0px 0px 0px 50px;
+    margin: 5px 0px 5px 50px;
     width: 430px;
     height:630px;
     border-bottom: #ffd284 5px solid;
@@ -183,7 +184,7 @@ a:-webkit-any-link {
     font-family: 'Roboto Slab', serif ;
     font-size: 15px;
     float: left;
-    margin: 0px 0px 0px 50px;
+    margin: 5px 0px 5px 50px;
     width: 430px;
     height:630px;
     border-bottom: #ffd284 5px solid;
@@ -196,7 +197,7 @@ a:-webkit-any-link {
     font-family: 'Roboto Slab', serif ;
     font-size: 15px;
     float: left;
-    margin: 0px 0px 0px 50px;
+    margin: 5px 0px 5px 50px;
     width: 430px;
     height:630px;
     border-bottom: #ffd284 5px solid;
@@ -209,7 +210,7 @@ a:-webkit-any-link {
     font-family: 'Roboto Slab', serif ;
     font-size: 15px;
     float: left;
-    margin: 0px 0px 0px 50px;
+    margin: 5px 0px 5px 50px;
     width: 430px;
     height:630px;
     border-bottom: #ffd284 5px solid;
@@ -222,7 +223,7 @@ a:-webkit-any-link {
     font-family: 'Roboto Slab', serif ;
     font-size: 15px;
     float: left;
-    margin: 0px 0px 0px 50px;
+    margin: 5px 0px 5px 50px;
     width: 430px;
     height:630px;
     border-bottom: #ffd284 5px solid;
